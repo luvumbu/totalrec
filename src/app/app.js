@@ -12,3 +12,4 @@ var NomDuFichier  = CheminComplet.substring(CheminComplet.lastIndexOf( "/" )+1 )
 console.log(NomDuFichier) ; // affiche le nom de l'url 
 
 
+/* NDENGA LUVUMBU http://bokonzi.com */
