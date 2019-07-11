@@ -1,6 +1,4 @@
-<?php
-    require 'src/app/links.html'; // call the links
-?>
+
 <?php
     require 'src/app/app.html';
     // ajouter toust les commentaires ici 
@@ -24,3 +22,7 @@
         // FOOTER PAGE   
     ?>
 </footer>
+
+<?php
+    require 'src/app/links.html'; // im call links 
+?>
