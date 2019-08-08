@@ -7,6 +7,7 @@
     <?php
      // ajout la page header #2
     require 'src/app/header/app.header.html';
+    require 'src/app/header/app.header.php';
     // #2
     ?>
 </header>
@@ -14,6 +15,7 @@
     <?php
          // ajout la page section #3
         require 'src/app/section/app.section.html' ;
+        require 'src/app/section/app.section.php' ;
         // #3 
     ?>
 </section>
@@ -21,6 +23,14 @@
     <?php
         // ajout la page header #4
         require 'src/app/footer/app.footer.html' ;
+        require 'src/app/footer/app.footer.php' ;
         // #4
     ?> 
 </footer>
+<?php
+// ajout des fichier javascript #5
+require 'links.php' ;
+// #5
+?>
+
+
