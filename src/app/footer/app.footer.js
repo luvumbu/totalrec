@@ -1,1 +1,1 @@
-/*  NDENGA LUVUMBU http://bokonzi.com  */
+/* NDENGA LUVUMBU http://bokonzi.com */

@@ -10,7 +10,7 @@
     window.onload = document.getElementById('body').style.display='none';
 </script>
     <?php 
-          require "src/app/app.php" ;
+          require "app.php" ;
           // call componnent in folder src/app  the name is: app.component 
     ?>
 </body>
