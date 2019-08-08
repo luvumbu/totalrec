@@ -1,3 +1,4 @@
+<script src="src/app/all/app.all.js"></script>
 <script src="src/app/header/app.header.js"></script>
 <script src="src/app/section/app.section.js"></script>
 <script src="src/app/footer/app.footer.js"></script>
