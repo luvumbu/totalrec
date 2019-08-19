@@ -1,4 +1,4 @@
-<!-- 
+<!--    𝕨𝕨𝕨.𝔹𝕠𝕜𝕠𝕟𝕫𝕚.𝕔𝕠𝕞  𝖞𝖉𝖊𝖓𝖌𝖆 𝕿𝖚𝖛𝖚𝖒𝖇𝖚   ★☆♨♫✈❤
     //  ★   =   début de l'information
     //  ☆   =   fin de l'information
     //  ♨   =   Code de l'information premier letre du fichier et dernier lettre du fichier suivi du numéro du commentaire.
@@ -6,7 +6,7 @@
     //  ✈  =♨=#ix0002 provenence du fichier total index.php  racine du fichier le commentaire de sa ligne est  ♨=#ix0002
     //  ❤   = Le fichier appéle est bien dans la racine du meme appelant 
     //
--->
+𝕨𝕨𝕨.𝔹𝕠𝕜𝕠𝕟𝕫𝕚.𝕔𝕠𝕞  𝖞𝖉𝖊𝖓𝖌𝖆 𝕿𝖚𝖛𝖚𝖒𝖇𝖚   ★☆♨♫✈❤  -->
 <link rel="stylesheet" href="src/app/header/app.header.css">     <!--★♫ ♨=ap001 ☆-->
 <link rel="stylesheet" href="src/app/section/app.section.css">  <!--★♫ ♨=ap002 ☆-->
 <link rel="stylesheet" href="src/app/footer/app.footer.css">    <!--★♫ ♨=ap003 ☆-->
