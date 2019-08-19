@@ -1,5 +1,9 @@
 <!-- 
-/*  requre de app.php */
-/* utilisation de la fonction require 'src/app/header/app.section.html'; */
-/* numero de commentaire #3(app.php) */
+    //  ★   =   début de l'information
+    //  ☆   =   fin de l'information
+    //  ♨   =   Code de l'information premier letre du fichier et dernier lettre du fichier suivi du numéro du commentaire.
+    //  ♫   = connexion css all suivi du nom du fichier 
+    //  ✈  = provenence du fichier total /!\... app.php ... /!\ racine du fichier ♨=ap010
+    //  ❥ = le fichier ne pas au même emplacement que l'appelant /!\
+    //
 -->

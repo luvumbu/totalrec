@@ -1,42 +1,40 @@
-<!-- Lien des pages comment #1 -->
-<link rel="stylesheet" href="src/app/header/app.header.css">    <!-- #1.1 -->
-<link rel="stylesheet" href="src/app/section/app.section.css">  <!-- #1.2 -->
-<link rel="stylesheet" href="src/app/footer/app.footer.css">    <!-- #1.3 -->
-<link rel="stylesheet" href="src/app/all/app.all.css">    <!-- #1.3 -->
+<!-- 
+    //  ★   =   début de l'information
+    //  ☆   =   fin de l'information
+    //  ♨   =   Code de l'information premier letre du fichier et dernier lettre du fichier suivi du numéro du commentaire.
+    //  ♫   = connexion css all suivi du nom du fichier 
+    //  ✈  =♨=#ix0002 provenence du fichier total index.php  racine du fichier le commentaire de sa ligne est  ♨=#ix0002
+    //  ❤   = Le fichier appéle est bien dans la racine du meme appelant 
+    //
+-->
+<link rel="stylesheet" href="src/app/header/app.header.css">    <!--★♫ ♨=ap001 ☆-->
+<link rel="stylesheet" href="src/app/section/app.section.css">  <!--★♫ ♨=ap002 ☆-->
+<link rel="stylesheet" href="src/app/footer/app.footer.css">    <!--★♫ ♨=ap003 ☆-->
+<link rel="stylesheet" href="src/app/all/app.all.css">          <!--★♫ ♨=ap004 ☆-->
 <!-- #1 -->
 <?php
-     require 'src/app/all/app.all.bdd.php';
-     require 'src/app/all/app.all.php';
+     require 'src/app/all/app.all.bdd.php';  //<!--★♫ ♨=ap005 ☆-->
+     require 'src/app/all/app.all.php';     //<!--★♫ ♨=ap006 ☆-->
 ?>
 <header>
     <?php
-     // ajout la page header #2
-    require 'src/app/header/app.header.html';
-    require 'src/app/header/app.header.php';
-    // #2
+        // ajout la page header #2
+        require 'src/app/header/app.header.html'; //<!--★♫ ♨=ap007 ☆-->
+        require 'src/app/header/app.header.php'; //<!--★♫ ♨=ap008 ☆-->
     ?>
 </header>
 <section>
     <?php
-         // ajout la page section #3
-        require 'src/app/section/app.section.html' ;
-        require 'src/app/section/app.section.php' ;
-        // #3 
+        require 'src/app/section/app.section.html' ; //<!--★♫ ♨=ap009 ☆-->
+        require 'src/app/section/app.section.php' ; //<!--★♫ ♨=ap0010 ☆-->
     ?>
 </section>
 <footer>
     <?php
-        // ajout la page header #4
-        require 'src/app/footer/app.footer.html' ;
-        require 'src/app/footer/app.footer.php' ;
-        // #4
+        require 'src/app/footer/app.footer.html' ;//<!--★♫ ♨=ap010 ☆-->
+        require 'src/app/footer/app.footer.php' ;//<!--★♫ ♨=ap011 ☆-->
     ?> 
 </footer>
 <?php
-// ajout des fichier javascript #5
-require 'links.php' ;
-// #5
+    require 'links.php' ;//<!--★♫ ♨=ap012 ☆-->
 ?>
-
-
-
