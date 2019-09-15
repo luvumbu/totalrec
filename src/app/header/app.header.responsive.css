@@ -1,0 +1,37 @@
+@media all and (max-width: 1024px)
+{
+    .header-flex-space-around
+    {
+        display: block ; 
+    }
+    .header-barre-menu
+    {
+        display: none ;      
+    }
+        .material-icons
+    {
+        display: block; 
+    }
+        .header-menu-general
+    {
+        display: block ; 
+    }
+    .header-menu-general:hover
+    {
+        cursor: pointer ;  
+    }
+    #header-barre-menu-responsive
+    {
+        visibility: visible ;
+    }
+    
+        .header-barre-menu-responsive
+    {
+        display: block ; 
+        background-image: linear-gradient(#0a0a0a, #5b5757);
+        margin: 0 ; 
+        padding: 1px ; 
+        color: white ; 
+        text-align: center ; 
+    }
+}

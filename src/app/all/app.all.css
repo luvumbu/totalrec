@@ -9,5 +9,15 @@
 𝕨𝕨𝕨.𝔹𝕠𝕜𝕠𝕟𝕫𝕚.𝕔𝕠𝕞  𝖞𝖉𝖊𝖓𝖌𝖆 𝕿𝖚𝖛𝖚𝖒𝖇𝖚   ★☆♨♫✈❤  */
 body 
 {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Poiret One', cursive;
+    margin: 0 ; 
+    padding: 0 ; 
+}
+a:hover 
+{
+    cursor: pointer ; 
+}
+@media all and (max-width: 1024px)
+{
+
 }
