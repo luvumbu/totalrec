@@ -15,7 +15,7 @@
             <meta http-equiv="X-UA-Compatible" content="ie=edge">
         </head>
         <title>Document</title>
-        <body id="body">
+        <body id="body" onscroll="windowscrollY()">
             <script type="text/javascript">
                 window.onload = document.getElementById('body').style.display='none';
                 //  ★   n'affiche pas la page pendant le chargement debut ♨=#ix0001
@@ -28,5 +28,11 @@
         <script type="text/javascript">
             window.onload = document.getElementById('body').style.display='block';
             //  affiche la page apres le chargement ♨=#ix0001   ☆
+        </script>
+        
+        <script>
+                var ok = new IdentificationHtml("p","ok") ; 
+                ok.set_text("mon text") ; 
+
         </script>
     </html>
