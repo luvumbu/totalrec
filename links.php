@@ -8,15 +8,15 @@
     //
 𝕨𝕨𝕨.𝔹𝕠𝕜𝕠𝕟𝕫𝕚.𝕔𝕠𝕞  𝖞𝖉𝖊𝖓𝖌𝖆 𝕿𝖚𝖛𝖚𝖒𝖇𝖚   ★☆♨♫✈❤  -->
 <?php 
-        $homepage = file_get_contents('http://bokonzi.com/bokonfi_frame/bkz.js');
+        $homepage = file_get_contents('http://bokonzi.com/bokonfi_frame/bkz.js');        
         echo "<script>" ; 
         echo $homepage ; 
-        echo "</script>" ; 
-
+        echo "</script>";
         $homepage = file_get_contents('http://bokonzi.com/bokonfi_frame/bkz.css');
         echo "<style>" ; 
         echo $homepage ; 
-        echo "</style>" ; 
+        echo "</style>" ;
+        // ajout de lelement javascript et Css qui proviens de la page web
 ?> 
 <script src="src/app/all/app.all.js"></script><!--  ★♨=ls0001  ☆   -->
 <script src="src/app/header/app.header.js"></script><!--  ★♨=ls0002  ☆   -->

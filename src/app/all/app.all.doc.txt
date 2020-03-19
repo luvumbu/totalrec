@@ -1,7 +1,0 @@
-Pour la réalisation d'une connexion à une basse de donne utilisé 
-c'est variables 
-<?php
-$dbname ="bokonzi";
-$user_name="root";
-$password="root" ;
-?>
