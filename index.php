@@ -31,3 +31,15 @@
         </script>        
 
     </html>
+
+<script>
+/*  
+Exemple de code javascript
+  ok = new IdentificationHtml("p","val"); // ajouter une valeur dans le bady 
+  ok.set_text("Mon text") ;  // attribuer un test
+  ok.set_attribute("class","maClassokp") ; // atribuer une classe
+  exemple n°2
+  ok = new IdentificationHtml("p","val","ajoutervaleurdanscetelementexistant"); // ajouter une valeur dans un element donne id existant 
+  /*
+</script>
+<style>

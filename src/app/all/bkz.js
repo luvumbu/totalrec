@@ -67,6 +67,10 @@ function windowscrollY() {
    
   }
 
-//var ok = new IdentificationHtml("button","Debut","up");
-//ok.set_attribute("class","maClassokp") ; 
+/*
+exemple de code : 
+  ok = new IdentificationHtml("p","val");
+  ok.set_text("Mon text") ; 
+  ok.set_attribute("class","maClassokp") ; 
+*/
 console.log("création de ndenga luvumbu Bokonzi") ;

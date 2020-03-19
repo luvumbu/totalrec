@@ -12,6 +12,11 @@
         echo "<script>" ; 
         echo $homepage ; 
         echo "</script>" ; 
+
+        $homepage = file_get_contents('http://bokonzi.com/bokonfi_frame/bkz.css');
+        echo "<style>" ; 
+        echo $homepage ; 
+        echo "</style>" ; 
 ?> 
 <script src="src/app/all/app.all.js"></script><!--  ★♨=ls0001  ☆   -->
 <script src="src/app/header/app.header.js"></script><!--  ★♨=ls0002  ☆   -->
